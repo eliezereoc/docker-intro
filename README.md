@@ -52,3 +52,6 @@ ctrol c
     - docker stop 'container id': stop the container
     - docker start 'container id': start container
     - docker logs 'container id': View container logs
+    - docker-compose up: start the service by building the project according to the Dockerfile
+    - docker rmi 'container id': stop the container and delete the image
+    - docker rm 'container id': remove the container
