@@ -13,7 +13,7 @@ Install the [Docker](https://www.docker.com/)
 
 Prerequisites
 
-> WSL 2
+> WSL 2  
 > Ubuntu
 
 Then start
