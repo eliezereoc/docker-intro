@@ -25,7 +25,7 @@ docker-compose up
 Then stop
 
 ```bash
-ctrol c
+ctrl c
 ```
 
 ---
